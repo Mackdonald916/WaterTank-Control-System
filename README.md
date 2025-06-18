@@ -1,9 +1,5 @@
 # 💧 Water Tank Control System - HMI Simulation
 
-![SIMATIC Logo](Variables in SIMTable.png)
-
-![HMI Screenshot](./HMI Display.png)
-
 ## 📘 Overview
 
 This project demonstrates an **automated Water Tank Control System** designed and simulated using **TIA Portal**, **PLCSIM**, and **WinCC HMI Runtime Advanced**. It showcases real-time monitoring and control of tank water levels using inlet and outlet pumps, visual indicators, and interactive control elements.
@@ -42,6 +38,12 @@ This project demonstrates an **automated Water Tank Control System** designed an
 2. Run the PLC logic using **PLCSIM**.
 3. Launch the HMI screen using **WinCC Runtime Advanced**.
 4. Use the Start/Stop buttons on the HMI to control the system and observe the simulation.
+
+## Variables
+![Variables in SIMTable](./Variables%20in%20SIMTable.png)
+
+## HMI Screen
+![HMI Display](./HMI%20Display.png)
 
 ## ✅ Applications
 
